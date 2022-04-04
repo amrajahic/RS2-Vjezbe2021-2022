@@ -8,3 +8,13 @@ C:\Users\Korisnik\Desktop\FIT-RS II-2021-2022\eProdaja310322\eProdaja.Models\obj
 C:\Users\Korisnik\Desktop\FIT-RS II-2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\FIT-RS II-2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.dll
 C:\Users\Korisnik\Desktop\FIT-RS II-2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.pdb
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\bin\Debug\netstandard2.0\eProdaja.Models.deps.json
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\bin\Debug\netstandard2.0\eProdaja.Models.dll
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\bin\Debug\netstandard2.0\eProdaja.Models.pdb
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.dll
+C:\Users\Korisnik\Desktop\RS2-Vjezbe2021-2022\eProdaja310322\eProdaja.Models\obj\Debug\netstandard2.0\eProdaja.Models.pdb

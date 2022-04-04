@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKsL2phTSkiwOqWq0nmXT/vup+v0pIDyP23+NCyyR3JYMhXUboMPuDDsY49IbHN5ZXIZGtsjvKgi5/fBnFzrbA==",
+  "dgSpecHash": "8QrtLuQmtMhWdFAgDfmrOWkEUKYtKOGPneM37hrIU9cq/ooEZk/4y0/Zw5UG7FlOqnVDhozj8xgSFUkFdkcJ8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj",
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Korisnik\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Korisnik\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

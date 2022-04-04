@@ -2210,11 +2210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja310322\\eProdaja310322.csproj",
+      "projectUniqueName": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja310322\\eProdaja310322.csproj",
       "projectName": "eProdaja310322",
-      "projectPath": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja310322\\eProdaja310322.csproj",
+      "projectPath": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja310322\\eProdaja310322.csproj",
       "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja310322\\obj\\",
+      "outputPath": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja310322\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2238,11 +2238,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja.Models\\eProdaja.Models.csproj": {
-              "projectPath": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja.Models\\eProdaja.Models.csproj"
+            "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja.Models\\eProdaja.Models.csproj": {
+              "projectPath": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja.Models\\eProdaja.Models.csproj"
             },
-            "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj": {
-              "projectPath": "C:\\Users\\Korisnik\\Desktop\\FIT-RS II-2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj"
+            "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj": {
+              "projectPath": "C:\\Users\\Korisnik\\Desktop\\RS2-Vjezbe2021-2022\\eProdaja310322\\eProdaja.Services\\eProdaja.Services.csproj"
             }
           }
         }

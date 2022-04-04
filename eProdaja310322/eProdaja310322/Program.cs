@@ -13,6 +13,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddTransient<IProizvodiService, ProizvodiService>();
 builder.Services.AddTransient<IKorisniciService, KorisniciService>();
+
+builder.Services.AddTransient<IJediniceMjereService, JediniceMjereService>();
 builder.Services.AddAutoMapper(typeof(IKorisniciService));
 builder.Services.AddDbContext<eProdajaContext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("Default Connection")));
 var app = builder.Build();
