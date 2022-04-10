@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace eProdaja.Services
 {
-    public interface IJediniceMjereService:IReadService<JediniceMjere, object>
+    public interface IVrsteProizvodumService: IReadService<VrsteProizvodum, object>
     {
        
     }

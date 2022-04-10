@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using eProdaja.Models.Requests;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,10 @@ namespace eProdaja.Services
             CreateMap<Database.Korisnici, Models.Korisnici>();
             CreateMap<Database.Proizvodi, Models.Proizvodi>();
             CreateMap<Database.JediniceMjere, Models.JediniceMjere>();
+            CreateMap<Database.VrsteProizvodum, Models.VrsteProizvodum>();
+            CreateMap<ProizvodiInsertRequest, Database.Proizvodi>();
+            CreateMap<ProizvodiUpdateRequest, Database.Proizvodi>();
+
 
 
         }

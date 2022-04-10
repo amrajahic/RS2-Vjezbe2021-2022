@@ -16,9 +16,9 @@ namespace eProdaja.Models
         public byte[] SlikaThumb { get; set; }
         public bool? Status { get; set; }
 
-     /*   public virtual JediniceMjere JedinicaMjere { get; set; } = null!;
-        public virtual VrsteProizvodum Vrsta { get; set; } = null!;
-        public virtual ICollection<IzlazStavke> IzlazStavkes { get; set; }
+        public virtual JediniceMjere JedinicaMjere { get; set; }
+        public virtual VrsteProizvodum Vrsta { get; set; }
+      /*  public virtual ICollection<IzlazStavke> IzlazStavkes { get; set; }
         public virtual ICollection<NarudzbaStavke> NarudzbaStavkes { get; set; }
         public virtual ICollection<Ocjene> Ocjenes { get; set; }
         public virtual ICollection<UlazStavke> UlazStavkes { get; set; } */

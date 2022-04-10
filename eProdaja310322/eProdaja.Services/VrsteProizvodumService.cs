@@ -8,15 +8,16 @@ using System.Threading.Tasks;
 
 namespace eProdaja.Services
 {
-    public class JediniceMjereService:BaseReadService<Models.JediniceMjere, Database.JediniceMjere, object>, IJediniceMjereService
+    public class VrsteProizvodumService:BaseReadService<Models.VrsteProizvodum, Database.VrsteProizvodum, object>, IVrsteProizvodumService
     {
-      
-        public JediniceMjereService(eProdajaContext eProdajaContext, IMapper mapper)
+       
+        public VrsteProizvodumService(eProdajaContext eProdajaContext, IMapper mapper)
         :base(eProdajaContext, mapper)
         {
-           
+            
         }
 
       
     }
 }
+

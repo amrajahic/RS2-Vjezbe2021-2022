@@ -11,10 +11,12 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddTransient<IProizvodiService, ProizvodiService>();
-builder.Services.AddTransient<IKorisniciService, KorisniciService>();
+builder.Services.AddScoped<IProizvodiService, ProizvodiService>();
+builder.Services.AddScoped<IKorisniciService, KorisniciService>();
 
-builder.Services.AddTransient<IJediniceMjereService, JediniceMjereService>();
+builder.Services.AddScoped<IJediniceMjereService, JediniceMjereService>();
+builder.Services.AddScoped<IVrsteProizvodumService, VrsteProizvodumService>();
+
 builder.Services.AddAutoMapper(typeof(IKorisniciService));
 builder.Services.AddDbContext<eProdajaContext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("Default Connection")));
 var app = builder.Build();
